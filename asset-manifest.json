@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SivaReddyk608/React-todolist-Class/static/css/main.5ac84484.chunk.css",
+    "main.js": "/SivaReddyk608/React-todolist-Class/static/js/main.9c8e231b.chunk.js",
+    "main.js.map": "/SivaReddyk608/React-todolist-Class/static/js/main.9c8e231b.chunk.js.map",
+    "runtime-main.js": "/SivaReddyk608/React-todolist-Class/static/js/runtime-main.87d70321.js",
+    "runtime-main.js.map": "/SivaReddyk608/React-todolist-Class/static/js/runtime-main.87d70321.js.map",
+    "static/js/2.0bed3aac.chunk.js": "/SivaReddyk608/React-todolist-Class/static/js/2.0bed3aac.chunk.js",
+    "static/js/2.0bed3aac.chunk.js.map": "/SivaReddyk608/React-todolist-Class/static/js/2.0bed3aac.chunk.js.map",
+    "static/js/3.3d4deb12.chunk.js": "/SivaReddyk608/React-todolist-Class/static/js/3.3d4deb12.chunk.js",
+    "static/js/3.3d4deb12.chunk.js.map": "/SivaReddyk608/React-todolist-Class/static/js/3.3d4deb12.chunk.js.map",
+    "index.html": "/SivaReddyk608/React-todolist-Class/index.html",
+    "static/css/main.5ac84484.chunk.css.map": "/SivaReddyk608/React-todolist-Class/static/css/main.5ac84484.chunk.css.map",
+    "static/js/2.0bed3aac.chunk.js.LICENSE.txt": "/SivaReddyk608/React-todolist-Class/static/js/2.0bed3aac.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/SivaReddyk608/React-todolist-Class/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d70321.js",
+    "static/js/2.0bed3aac.chunk.js",
+    "static/css/main.5ac84484.chunk.css",
+    "static/js/main.9c8e231b.chunk.js"
+  ]
+}
